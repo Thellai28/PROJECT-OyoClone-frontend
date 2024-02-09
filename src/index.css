@@ -1,3 +1,4 @@
+@import url('bootstrap/dist/css/bootstrap.min.css');
 body {
   min-height: 100vh;
   padding-bottom: 50px;
@@ -189,7 +190,7 @@ body {
 
 /* The header banner */
 .header-banner {
-  background-image:  url("./images/kakashi.jpg");
+  background-image:  url("./assets/images/services-1.jpg");
    background-size: cover;
   background-position: center;
    position: relative;
